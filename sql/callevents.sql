@@ -17,5 +17,5 @@ CREATE TABLE IF NOT EXISTS `note` (
 COLLATE='utf8_bin'
 ENGINE=MyISAM;
 
-INSERT INTO `contact` (`firstName`, `lastName`, `phone`) VALUES ('Alan', 'John', '002');
-INSERT INTO `contact` (`firstName`, `lastName`, `phone`) VALUES ('John', 'Doe', '003');
+INSERT INTO `contact` (`firstName`, `lastName`, `phone`) VALUES ('Alan', 'John', '0003*002');
+INSERT INTO `contact` (`firstName`, `lastName`, `phone`) VALUES ('John', 'Doe', '0003*003');
